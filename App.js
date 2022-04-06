@@ -1,6 +1,6 @@
 import "./App.css";
-import FormControl from "./components/FormControl";
-import Header from "./components/Header";
+import FormControl from "./FormControl";
+import Header from "./Header";
 import * as axios from "axios";
 import React, { useEffect, useState } from "react";
 import Map from "react-map-gl";
